@@ -3,7 +3,7 @@
 namespace Config {
 	namespace Aimbot {
 		inline bool Enabled{ true };
-		inline Enums::KeyCode Key{ Enums::KeyCode::V };
+		inline Enums::KeyCode Key{ Enums::KeyCode::Q };
 		inline float Fov{ 90.f };
 		inline bool Silent{ true };
 		inline bool DrawFov{ true };
